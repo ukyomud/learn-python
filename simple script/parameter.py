@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2016-06-20 23:47:41
 # @Author  : xiaomi (ukyomud@outlook.com))
-# @Filename :
-# @Description :
+# @Filename : parameter.py
+# @Description : practice parameters
 
 def story(**kwds):
     return 'Once upon a time. There was a ' '%(job)s called %(name)s.' % kwds
